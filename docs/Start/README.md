@@ -1,0 +1,3 @@
+# Introduction
+
+MemoData is a data ecosystem developed by MemoLabs, built on blockchain technology. It is dedicated to **data privacy protection, assetization, and user autonomy**. Its core product, the **MEMO Data Wallet**, provides decentralized, cross-platform digital identity management while establishing a **user-controlled data assetization platform** that ensures privacy security and value circulation. By integrating identity authentication and data trading functions, MemoData constructs a **decentralized digital identity system and data infrastructure**, empowering users with true **data sovereignty** and enabling secure, efficient data value exchange.
