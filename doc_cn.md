@@ -192,7 +192,7 @@ c. 点击按钮`Create DID Free`
 
 [Website](https://memolabs.org/)
 
-[Twitter](https://x.com/MemoLabsOrg) 
+[Twitter](https://x.com/MemoLabsOrg)
 
 [Discord](https://discord.com/invite/YG4Ydv2E7X)
 

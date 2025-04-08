@@ -14,7 +14,7 @@ MemoData is a data ecosystem developed by MemoLabs, built on blockchain technolo
 
 * Users fully control identity data, supporting **privacy protection** (e.g., selective disclosure) and **cross-platform authentication**.
 
-#### mfileDID - Decentralized Identity for Files 
+#### mfileDID - Decentralized Identity for Files
 
 * **Data Ownership & Traceability**: Assigns a unique mfileDID to files/data, enabling on-chain ownership records and transaction tracking.
 
